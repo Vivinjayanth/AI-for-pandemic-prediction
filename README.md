@@ -1,3 +1,3 @@
 # AI-for-pandemic-prediction
-Mini-Project
+## Mini-Project
 To run: streamlit run app.py
